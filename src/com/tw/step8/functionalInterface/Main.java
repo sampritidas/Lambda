@@ -40,5 +40,14 @@ public class Main {
         }));
         System.out.println("Map     " + numbers.map(i -> i * i * i));
 
+        //forEach
+        numbers.forEach(new Iterable<Integer, Integer>() {
+
+            @Override
+            public void apply(Integer i, int index) {
+                System.out.format("element %d : %d \n", index, i);
+            }
+        });
+
     }
 }

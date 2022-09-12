@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18db89d6-af11-45aa-9341-dbfeef96ab46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/SquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Iterable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +46,8 @@
       <recent name="com.tw.step8.functionalInterface.mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.tw.step8.functionalInterface.Main (4)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.step8.functionalInterface.Main" />
       <module name="lamda" />
       <extension name="coverage">
@@ -69,7 +60,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.step8.functionalInterface.Main" />
       <module name="lamda" />
       <extension name="coverage">
@@ -82,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.step8.functionalInterface.Main" />
       <module name="lamda" />
       <extension name="coverage">
@@ -95,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.step8.functionalInterface.Main" />
       <module name="lamda" />
       <extension name="coverage">
@@ -108,7 +99,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.step8.functionalInterface.Main" />
       <module name="lamda" />
       <extension name="coverage">
@@ -175,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.tw.step8.functionalInterface.Main (4)" />
-        <item itemvalue="Application.com.tw.step8.functionalInterface.Main" />
-        <item itemvalue="Application.com.tw.step8.functionalInterface.Main (3)" />
-        <item itemvalue="Application.com.tw.step8.functionalInterface.Main (2)" />
-        <item itemvalue="Application.com.tw.step8.functionalInterface.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,5 +195,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tw/step8/functionalInterface/Numbers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
